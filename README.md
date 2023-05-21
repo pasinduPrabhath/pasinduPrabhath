@@ -74,6 +74,6 @@
 
 ###
 
-<p align="left">![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=pasindurmpp)</p>
+<p align="left">!![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pasindurmpp)</p>
 
 ###
