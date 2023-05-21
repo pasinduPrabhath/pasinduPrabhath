@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">#Hi there 👋</p>
+<H1 align="left">Hi there 👋</H1>
 
 ###
 
