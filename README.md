@@ -2,7 +2,7 @@
 
 I am Pasindu Prabhath, currently a University Student at the [University Of Kelaniya]([https://www.enosisbd.com/](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwicqsy4h4f_AhW2yDgGHQLLAC8QFnoECAwQAQ&url=https%3A%2F%2Fwww.kln.ac.lk%2F&usg=AOvVaw2iR7tw9KdTr1n8t0aezhhG)). I am a Freelancer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-pasindu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/pasindu-prabhath/)
+[![Linkedin Badge](https://img.shields.io/badge/-Pasindu Prabhath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/pasindu-prabhath/)
 [![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:pasinduprabhath@gmail.com)
 
 
