@@ -62,7 +62,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pasinduPrabhath/pasinduPrabhath/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pasinduPrabhath/pasinduPrabhath/snake.svg" alt="Snake animation" />
 
 ###
 
