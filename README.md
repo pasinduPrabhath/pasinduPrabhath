@@ -59,21 +59,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/pasinduPrabhath/pasinduPrabhath/snake.yml" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/pasindurmpp">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<p align="left">![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pasindurmpp)</p>
-
-###
