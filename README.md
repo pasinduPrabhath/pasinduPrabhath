@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pasinduPrabhath.pasinduPrabhath&left_color=black&right_color=black"  />
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
 
 ###
 
