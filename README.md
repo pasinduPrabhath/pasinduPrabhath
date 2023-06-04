@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am Pasindu Prabhath, currently a Student at the University Of Kelaniya. I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:</p>
+<p align="left">I am Pasindu Prabhath, currently an IT student. I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:</p>
 
 ###
 
