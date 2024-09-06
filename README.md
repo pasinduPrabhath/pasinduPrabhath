@@ -28,6 +28,7 @@
   </a>
 </div>
 
+<!--
 ###
 
 div align="center">
@@ -36,6 +37,7 @@ div align="center">
 </div>
 
 ###
+-->
 
 <p align="left">⚡Technologies</p>
 
