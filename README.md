@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am Pasindu Prabhath, currently a part time software developer. I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:</p>
+<p align="left">I am Pasindu Prabhath, currently a software engineer. I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:</p>
 
 ###
 
