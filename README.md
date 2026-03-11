@@ -104,16 +104,6 @@
 
 </div>
 
----
-
-## `> neofetch --github`
-
-<div align="center">
-
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=pasinduPrabhath&show_icons=true&theme=matrix&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true&include_all_commits=true" />
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasinduPrabhath&layout=compact&theme=matrix&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff&langs_count=7" />
-
-</div>
 
 ---
 
