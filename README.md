@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER - 3D Waving Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=220&section=header&text=PASINDU%20PRABHATH&fontSize=52&fontColor=00ff41&fontAlignY=36&desc=Software%20Engineer%20%7C%20App%20Architect%20%7C%20Code%20Craftsman&descAlignY=58&descSize=18&descColor=cccccc&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=220&section=header&text=PASINDU%20PRABHATH&fontSize=52&fontColor=00ff41&fontAlignY=36&desc=Software%20Engineer%20%7C%20Indie%20Coder%20%7C%20Code%20Craftsman&descAlignY=58&descSize=18&descColor=cccccc&animation=fadeIn)
 
 <!-- ANIMATED TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=750&height=50&lines=%24+flutter+run+--release+%F0%9F%9A%80;%24+git+commit+-m+%22shipped+something+epic%22+%E2%9C%85;%24+npm+run+build+%E2%9A%A1+%7C%7C+exit+1;%24+adb+install+pasindu_app.apk+%F0%9F%93%B1;%24+node+server.js+--port+3000+%F0%9F%94%A5;%24+dart+pub+upgrade+--major-versions+%F0%9F%8E%AF;Building+cross-platform+apps+that+slap+%F0%9F%A7%A0)](https://git.io/typing-svg)
